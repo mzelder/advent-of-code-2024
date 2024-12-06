@@ -7,7 +7,7 @@ Each day unlocks a new challenge, and you can solve them in any programming lang
 
 1. 🎁 [--- Day 1: Historian Hysteria ---](/day_1)
 2. 🦌 [--- Day 2: Red-Nosed Reports ---](/day_2)
-3. ❓ Problem not solved
+3. ✨ [--- Day 3: Mull It Over ---](/day_2)
 4. ❓ Problem not solved
 5. ❓ Problem not solved
 6. ❓ Problem not solved
@@ -32,4 +32,4 @@ Each day unlocks a new challenge, and you can solve them in any programming lang
 25. ❓ Problem not solved
 ---
 
-Happy coding and enjoy the festive programming spirit! 🎅✨
+Happy coding and enjoy the festive programming spirit! ☃︎🎅🎄❄️☃️🎁🦌🎅 🎄 🎁 ✨
