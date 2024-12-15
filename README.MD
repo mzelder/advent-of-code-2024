@@ -8,7 +8,7 @@ Each day unlocks a new challenge, and you can solve them in any programming lang
 1. 🎁 [--- Day 1: Historian Hysteria ---](/day_1)
 2. 🦌 [--- Day 2: Red-Nosed Reports ---](/day_2)
 3. ✨ [--- Day 3: Mull It Over ---](/day_3)
-4. ❓ Problem not solved
+4. ⛄[--- Day 4: Ceres Search ---](/day_4)
 5. ❓ Problem not solved
 6. ❓ Problem not solved
 7. ❓ Problem not solved
