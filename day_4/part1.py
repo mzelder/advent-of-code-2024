@@ -26,7 +26,7 @@ def main():
 
 def search_for_XMAS(lines: List[str]) -> None: 
     global result
-    for line in lines:
+    for line in lines:---
         backward_line = line[::-1]
         result += len(re.findall(r"XMAS", line))
         result += len(re.findall(r"XMAS", backward_line))
