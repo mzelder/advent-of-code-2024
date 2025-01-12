@@ -71,3 +71,23 @@ Consider just going with debugger and find if the indexes match indexes one the 
 Some images to visualize: <br><br>
 ![image](matrix3.png)
 ![image](matrix4.png)
+
+## Part 2 :star:
+[part2.py](part2.py) <br><br>
+So in this part we actually need to finx the "MAS" words shaped in X.<br>
+```
+M.S
+.A.
+M.S
+```
+To solve the problem we need to think what will be our method. 
+I figure out that we can just check in in matrixes 3x3 and then check in the matrix if the words are matching according to the guidelines.
+
+**Schemat I used to solve the problem**
+1. Get matrix 3x3 starting from left top corner. 
+2. Check if there is our MAS shaped in X (if so add 1 to the result var).
+2. Go one horizontal line to the right and get matrix.
+3. Do it till you reach the end of the horizontal line.
+4. Delete the line that we was starting on. (think about it as going one line down). You probably can do it somehow else.
+5. Repeat the process to the end.
+6. Print out the final result
