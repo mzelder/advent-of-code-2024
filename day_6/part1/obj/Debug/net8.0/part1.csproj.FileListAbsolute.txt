@@ -1,0 +1,15 @@
+/Users/maciejzelder/Dev/advent-of-code-2024/day_6/part1/bin/Debug/net8.0/part1
+/Users/maciejzelder/Dev/advent-of-code-2024/day_6/part1/bin/Debug/net8.0/part1.deps.json
+/Users/maciejzelder/Dev/advent-of-code-2024/day_6/part1/bin/Debug/net8.0/part1.runtimeconfig.json
+/Users/maciejzelder/Dev/advent-of-code-2024/day_6/part1/bin/Debug/net8.0/part1.dll
+/Users/maciejzelder/Dev/advent-of-code-2024/day_6/part1/bin/Debug/net8.0/part1.pdb
+/Users/maciejzelder/Dev/advent-of-code-2024/day_6/part1/obj/Debug/net8.0/part1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maciejzelder/Dev/advent-of-code-2024/day_6/part1/obj/Debug/net8.0/part1.AssemblyInfoInputs.cache
+/Users/maciejzelder/Dev/advent-of-code-2024/day_6/part1/obj/Debug/net8.0/part1.AssemblyInfo.cs
+/Users/maciejzelder/Dev/advent-of-code-2024/day_6/part1/obj/Debug/net8.0/part1.csproj.CoreCompileInputs.cache
+/Users/maciejzelder/Dev/advent-of-code-2024/day_6/part1/obj/Debug/net8.0/part1.sourcelink.json
+/Users/maciejzelder/Dev/advent-of-code-2024/day_6/part1/obj/Debug/net8.0/part1.dll
+/Users/maciejzelder/Dev/advent-of-code-2024/day_6/part1/obj/Debug/net8.0/refint/part1.dll
+/Users/maciejzelder/Dev/advent-of-code-2024/day_6/part1/obj/Debug/net8.0/part1.pdb
+/Users/maciejzelder/Dev/advent-of-code-2024/day_6/part1/obj/Debug/net8.0/part1.genruntimeconfig.cache
+/Users/maciejzelder/Dev/advent-of-code-2024/day_6/part1/obj/Debug/net8.0/ref/part1.dll
