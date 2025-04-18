@@ -1,5 +1,5 @@
 ## Part 1 :star:
-[part1.py](part1.py) <br><br>
+[part1.cs](part1/Program.cs) <br><br>
  
 
 ## Part 2 :star:
